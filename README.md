@@ -1,5 +1,5 @@
 ### KONTRA Test Environment
-buildKontraTestEnv project is used to setup a standarized KONTRA Test environment with (a) KontKONTRAra release, database (e.g. DB2) and standarized tools to execute test cases/suites. The tester can use the KONTRA Test Environmet to:
+buildKontraTestEnv project is used to setup a standarized KONTRA Test environment with an installed KONTRA release, database (e.g. DB2) and standarized tools to execute test cases/suites. The tester can use the KONTRA Test Environmet to:
 
 - Test KONTRA in a defined test environment with different KONTRA products (e.g. Kreditkartenabrechnung)
 - Test KONTRA with a defined KONTRA product but different KONTRA releases
