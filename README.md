@@ -1,12 +1,12 @@
 ### KONTRA Test Environment
 buildKontraTestEnv project is used to setup a standarized KONTRA Test environment (system under test, SUT), DB2 and standarized tools to execute test cases/suites. The tester can use the KONTRA Test Environmet to:
 
-1. Test KONTRA in a defined test environment with different KONTRA products (e.g. Kreditkartenabrechnung)
-2. Test KONTRA with a defined KONTRA product but different test environments
-  a. KONTRA releases
-  b. KONTRA database releases
-  c. Platforms/hardware (e.g. xxx (linux), macbook pro (macOS))
-  d. Databases (e.g. DB2, Oracle)
+- Test KONTRA in a defined test environment with different KONTRA products (e.g. Kreditkartenabrechnung)
+- Test KONTRA with a defined KONTRA product but different test environments
+  1. KONTRA releases
+  2. KONTRA database releases
+  3. Platforms/hardware (e.g. xxx (linux), macbook pro (macOS))
+  4. Databases (e.g. DB2, Oracle)
 
 The standard test environment (out of the box) consist out of:
   1. KONTRA release: x.xxx
